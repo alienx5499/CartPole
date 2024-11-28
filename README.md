@@ -11,10 +11,10 @@
 ![Security](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)
 ![⭐ GitHub stars](https://img.shields.io/github/stars/alienx5499/CartPole?style=social)
 ![🍴 GitHub forks](https://img.shields.io/github/forks/alienx5499/CartPole?style=social)
-![Commits](https://badgen.net/github/commits/alienx5499/CartPole)
+![Commits](https://badgen.net/github/commits/alienx5499/cartpole)
 ![🐛 GitHub issues](https://img.shields.io/github/issues/alienx5499/CartPole)
-![📂 GitHub pull requests](https://img.shields.io/github/issues-pr/alienx5499/CartPole)
-![💾 GitHub code size](https://img.shields.io/github/languages/code-size/alienx5499/CartPole)
+![📂 GitHub pull requests](https://img.shields.io/github/issues-pr/alienx5499/cartpole)
+![💾 GitHub code size](https://img.shields.io/github/languages/code-size/alienx5499/cartpole)
 
 🔗 **[Visit the Live Demo](#-screenshots)** | 📑 **[Explore Documentation](#)**
 
