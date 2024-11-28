@@ -125,6 +125,18 @@ Here are visualizations showcasing the training process and results:
 
 ---
 
+## ⚠️ **Resource Warning**
+
+This project includes a pre-trained model trained for **10,000 episodes**, which is **resource-intensive** and can be **CPU/GPU consuming**. 
+
+If you have **limited hardware resources**, we recommend:
+- Training with fewer episodes (e.g., **2000–5000 episodes**) to achieve reasonable performance.
+- Ensure your system can handle training workloads to prevent hardware strain.
+
+**Alternative**: If you prefer not to train the model, you can use the pre-trained model and logs provided in the **`ModelData/`** folder, which contains data for **10,000 episodes**.
+
+---
+
 ## **🎯 Target Audience**
 
 1. **Reinforcement Learning Enthusiasts**: Dive deep into Deep Q-Learning and OpenAI Gym.
