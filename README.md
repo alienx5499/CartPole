@@ -7,7 +7,7 @@
 ![Build Passing](https://img.shields.io/badge/build-passing-success?style=flat-square)
 ![Views](https://hits.dwyl.com/alienx5499/CartPole.svg)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/alienx5499/CartPole/blob/main/CONTRIBUTING.md)
-[![License: MIT](https://custom-icon-badges.herokuapp.com/github/license/alienx5499/cartpole?logo=law&logoColor=white)](https://github.com/alienx5499/CartPole/blob/main/LICENSE)
+[![License: MIT](https://custom-icon-badges.herokuapp.com/github/license/alienx5499/CartPole?logo=law&logoColor=white)](https://github.com/alienx5499/CartPole/blob/main/LICENSE)
 ![Security](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)
 ![⭐ GitHub stars](https://img.shields.io/github/stars/alienx5499/CartPole?style=social)
 ![🍴 GitHub forks](https://img.shields.io/github/forks/alienx5499/CartPole?style=social)
