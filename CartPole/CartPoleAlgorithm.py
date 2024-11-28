@@ -134,7 +134,7 @@ def train_dqn():
     epsilon_min = 0.01  #! Minimum exploration rate
     batch_size = 64  #! Size of training batches
     target_update = 10  #! Frequency of target network updates
-    num_episodes = 2  #! Total number of training episodes
+    num_episodes = 10000  #! Total number of training episodes
     gradient_clip = 1.0  #! Gradient clipping value
 
     #! Metrics for logging progress
