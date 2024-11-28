@@ -80,15 +80,19 @@ Here are visualizations showcasing the training process and results:
 
 1. **Total Rewards Per Episode**  
    Visualizes the total rewards collected by the agent over episodes, showing trends and improvement over time.  
-   ![Total Rewards Per Episode](https://github.com/user-attachments/assets/8b4cf6f8-083c-4f9e-b136-37f157e5d892)
+   ![Total Rewards Per Episode](https://github.com/user-attachments/assets/7d56aff9-3550-486f-a9b4-fcfb56540167)
 
-2. **Epsilon Decay Over Episodes**  
+2. **Training Loss Over Time**  
+   Displays the loss curve over the course of training, providing insights into model convergence.  
+   ![Training Loss Over Time](https://github.com/user-attachments/assets/5769ea2c-7a94-41b7-86fc-bad19987dabd)
+
+3. **Epsilon Decay During Training**  
    Highlights how the epsilon value decreases during training, balancing exploration and exploitation.  
-   ![Epsilon Decay Over Episodes](https://github.com/user-attachments/assets/c4ef1a48-45af-4820-bfb3-3412d62fcbfe)
+   ![Epsilon Decay During Training](https://github.com/user-attachments/assets/cc1687dc-cf37-4ba5-a4fb-74837270706b)
 
-3. **CartPole Agent in Action**  
-   Watch the trained agent perform in the CartPole-v1 environment as it attempts to balance the pole.  
-   ![CartPole Agent in Action](https://github.com/user-attachments/assets/6d9ece58-d6c0-475c-ae6f-07c36f88a2d9)
+5. **CartPole Agent in Action**  
+   Watch the trained agent perform in the CartPole-v1 environment as it successfully balances the pole.  
+   ![CartPole Agent in Action](https://github.com/user-attachments/assets/b24d4e5b-2f5b-4237-8c3a-584f89045f30)
 
 ---
 
