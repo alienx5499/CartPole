@@ -41,9 +41,10 @@ CartPole is a classic reinforcement learning environment from OpenAI Gym where t
 2. [🛠️ Tech Stack](#️-tech-stack)
 3. [📸 Screenshots](#-screenshots)
 4. [⚙️ Setup Instructions](#️-setup-instructions)
-5. [🎯 Target Audience](#-target-audience)
-6. [🤝 Contributing](#-contributing)
-7. [📜 License](#-license)
+5. [⚠️ Resource Warning](#-resource-warning)
+6. [🎯 Target Audience](#-target-audience)
+7. [🤝 Contributing](#-contributing)
+8. [📜 License](#-license)
 
 ---
 
@@ -125,7 +126,7 @@ Here are visualizations showcasing the training process and results:
 
 ---
 
-## ⚠️ **Resource Warning**
+## **⚠️ Resource Warning**
 
 This project includes a pre-trained model trained for **10,000 episodes**, which is **resource-intensive** and can be **CPU/GPU consuming**. 
 
