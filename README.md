@@ -41,7 +41,7 @@ CartPole is a classic reinforcement learning environment from OpenAI Gym where t
 2. [🛠️ Tech Stack](#️-tech-stack)
 3. [📸 Screenshots](#-screenshots)
 4. [⚙️ Setup Instructions](#️-setup-instructions)
-5. [⚠️ Resource Warning](#-resource-warning)
+5. [Resource Warning](#-resource-warning)
 6. [🎯 Target Audience](#-target-audience)
 7. [🤝 Contributing](#-contributing)
 8. [📜 License](#-license)
