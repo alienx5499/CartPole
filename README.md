@@ -126,7 +126,7 @@ Here are visualizations showcasing the training process and results:
 
 ---
 
-## **⚠️ Resource Warning**
+## **Resource Warning**
 
 This project includes a pre-trained model trained for **10,000 episodes**, which is **resource-intensive** and can be **CPU/GPU consuming**. 
 
